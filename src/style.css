@@ -1,0 +1,8 @@
+body{
+  background-color:black;
+}
+
+.loader-wraper{
+  margin-bottom: 70px;
+  transition: .3s ease-in 1s;
+}

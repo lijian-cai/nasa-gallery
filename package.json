@@ -1,0 +1,26 @@
+{
+  "name": "demo-waterfall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack && webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "babel-runtime": "^6.26.0",
+    "bootstrap": "^4.3.1",
+    "moment": "^2.24.0",
+    "react-bootstrap": "^1.0.0-beta.14",
+    "react-columns": "^1.2.1"
+  },
+  "homepage": "https://localhost:3000",
+  "devDependencies": {
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.0"
+  }
+}
